@@ -76,7 +76,7 @@ Windowing.hann(WinSize) => fft.window;
 
 //variables for the gate
 0 => int gate;
-0.4 => float threshold;
+0.40 => float threshold;
 //variables for spectral rolloff
 0.5 => roff50.percent;
 //gives me the sample rate
